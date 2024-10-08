@@ -31,9 +31,9 @@ header{
 }
 
 h1{
-		font-size: 36px;
-		font-family: 'Times New Roman', Georgia, Times, serif;
-	}
+	font-size: 36px;
+	font-family: 'Times New Roman', Georgia, Times, serif;
+}
 
 article{
 	grid-column: 1;
@@ -78,7 +78,7 @@ footer{
 }
 
 p{
-	font-family: Arial;
+	font-family: Arial, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', 'Noto Sans', sans-serif;
 	font-size: 18px;
 	color: #2D3748;
 }
